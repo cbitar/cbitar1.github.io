@@ -1,0 +1,17 @@
+style.css
+
+body {
+	background-color: red;
+}
+
+h1, p {
+	color: brown;
+	margin: 9px;
+	font-size: 36px;
+
+}
+
+h2 {
+	color: rgba(244,145,211);
+	font-size: 25px;
+}
